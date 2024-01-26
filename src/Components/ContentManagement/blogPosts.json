@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Title of Blog Post 1",
+    "imageUrl": "https://placekitten.com/600/400",
+    "description": "A brief description of the blog post content. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "buttonLabel": "Read More",
+    "buttonLink": "https"
+  },
+  {
+    "title": "Title of Blog Post 2",
+    "imageUrl": "https://placekitten.com/601/401",
+    "description": "Another brief description of the blog post content. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "buttonLabel": "Read More",
+    "buttonLink": "https"
+  }
+]

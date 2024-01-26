@@ -1,0 +1,9 @@
+.custom-vh {
+    height: 90vh;
+}
+
+@media (max-width:768px) {
+    .custom-vh {
+        height: 75vh;
+    }
+}
