@@ -1,7 +1,7 @@
 {
   "homepage": "https://vallarasuk.com/blog",
   "name": "blog",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "description": "Explore Vallarasu's Blog for insightful articles on web development, programming, and technology. Stay updated with the latest trends and tutorials in the world of software development.",
   "keywords": [
